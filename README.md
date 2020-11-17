@@ -2,7 +2,8 @@
 Sound card modem for Amateur Radio AX25
 =======================================
 
-Original Program 'extmodem' By Alejandro Santos, LU4EXT / HB3YNQ. alejolp@gmail.com.
+Original Program [extmodem](https://github.com/alejolp/extmodem) By Alejandro Santos, LU4EXT / HB3YNQ. alejolp@gmail.com.
+
 Modified by Kevin Schroeder, KE0SPF. Kmschr@gmail.com
 
 For use in CSU Rocket Team 2020-2021
